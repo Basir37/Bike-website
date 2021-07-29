@@ -1,0 +1,54 @@
+/* common styles */
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+header {
+    background-color: #264653;
+}
+
+.contact-bg {
+    background-color: #264653;
+
+
+}
+
+small {
+    text-align: center;
+    color: #E76F51;
+}
+
+.custom-text {
+    color: #E76F51;
+}
+
+.custom-button {
+    background-color: #E76F51;
+}
+
+.hero-section-detail-text {
+    color: #E0E0E0;
+
+}
+
+/* featured bike section  */
+.grayscale-blur-item {
+    filter: grayscale(100%);
+}
+
+/* happy clients section  */
+.icon-bg {
+    color: #E76F51;
+}
+
+footer {
+    background-color: #0B0D17;
+}
+
+.user-name {
+    color: #23A6F0;
+}
+
+.user-job {
+    color: #252B42;
+}
